@@ -1,0 +1,1 @@
+endpoint POST http://localhost:9898/file_receiver/file
